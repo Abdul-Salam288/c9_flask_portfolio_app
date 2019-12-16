@@ -7,6 +7,12 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
+#profilepic{
+    outline:0;
+    margin:300px;
+    max-width: auto;
+    transform: rotate(90deg);
+}
 p {
   font-size: 20px;
 }
